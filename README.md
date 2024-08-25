@@ -215,4 +215,4 @@ The Nova Iframe Page Tool for Laravel Nova provides a flexible way to embed exte
 
 ## License
 
-This package is open-source software licensed under the [MIT license](LICENSE.md). Feel free to contribute, report issues, or suggest improvements!
+This package is open-source software licensed under the [MIT license](LICENSE). Feel free to contribute, report issues, or suggest improvements!
